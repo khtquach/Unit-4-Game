@@ -1,0 +1,12 @@
+body {
+    background-color: lavender;
+}
+
+totalScore {
+    padding: 80px;
+}
+
+scoreBoard {
+    background-color: aqua;
+    float: right;
+}
